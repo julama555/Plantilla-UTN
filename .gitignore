@@ -1,0 +1,5 @@
+# Exportaciones individuales; guardá PDFs de ejemplo en una carpeta específica si querés versionarlos.
+*.pdf
+!ejemplos/*.pdf
+*.tmp
+*.bak
